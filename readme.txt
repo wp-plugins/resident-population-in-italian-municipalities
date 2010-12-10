@@ -6,10 +6,10 @@ Requires at least: 2.0.2
 Tested up to: 3.1
 Stable tag: trunk
 
-Put official data about resident population in italian municipalities directely from ISTAT, the italian statistical office
+Put official data about resident population in italian municipalities on your site directely from ISTAT, the italian statistical office
 
 == Description ==
-Put on the sidebar official data about resident population in italian municipalities. Data come in real time from statistics italy (ISTAT - demo.istat.it)
+Put on the sidebar official data about resident population in italian municipalities. All data come in real time from the official site that statistics italy uses for population data dissemination (ISTAT - demo.istat.it)
 
 == Installation ==
 
@@ -26,8 +26,9 @@ Visit http://www.vincenzopatruno.org/2010/02/19/application-sharing/
 
 
 == Screenshots ==
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). 
+
+
 
 == Changelog ==
 
